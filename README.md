@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaouki Hjaiji</h1>
-<h3 align="center">I am a master of engineering student</h3>
+<h3 align="center">I am a master student in Data Science and Machine Learning</h3>
 
 
 
